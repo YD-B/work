@@ -45,7 +45,7 @@ core.safecrlf warn - печать только предупреждение, н�
     git config --global core.autocrlf true
     git config --global core.safecrlf true
 
-![](1.1.1-1.1.2.PNG)
+![](/picture/1.1.1-1.1.2.PNG)
 
   **1.1.3 Установка отображения unicode**
 
