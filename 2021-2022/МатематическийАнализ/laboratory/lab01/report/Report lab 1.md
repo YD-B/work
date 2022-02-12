@@ -45,7 +45,7 @@ core.safecrlf warn - печать только предупреждение, н�
     git config --global core.autocrlf true
     git config --global core.safecrlf true
 
-![](/picture/1.1.1-1.1.2.PNG)
+![](https://github.com/YD-B/work/blob/main/2021-2022/%D0%9C%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7/laboratory/lab01/report/pictures/1.1.1-1.1.2.PNG)
 
   **1.1.3 Установка отображения unicode**
 
