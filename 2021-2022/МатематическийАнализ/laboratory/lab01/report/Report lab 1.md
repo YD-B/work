@@ -139,11 +139,11 @@ core.autocrlf true - git автоматически конвертирует CRL
   Требуется изменить страницу «Hello, World», чтобы она содержала стандартные теги <html>
   и <body>.
 
-    <html>
-     <body>
-      <h1>Hello, World!</h1>
-     </body>
-    </html>
+     <html>
+      <body>
+       <h1>Hello, World!</h1>
+      </body>
+     </html>
  
  ![](pictures/1.4.2_1.PNG)
  
