@@ -1,4 +1,4 @@
-Files created during laboratory work :06:
+Files created during laboratory work 06:
 MMReport06.md
 MMReport06.docx
 MMReport06.pdf
