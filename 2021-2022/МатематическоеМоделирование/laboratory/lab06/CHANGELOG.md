@@ -1,8 +1,33 @@
+commit 5f4764e0c372fc8d9cf092180c2becb3f39b455e
+Author: YD-B <92097813+YD-B@users.noreply.github.com>
+Commit: GitHub <noreply@github.com>
+
+    Update README.md
+
+commit 1282f5aa2151a0e5fcbea468aa1a3329b77ac1de
+Merge: 32a921d a10a493
+Author: Evelina <evelina.menezes@gmail.com>
+Commit: Evelina <evelina.menezes@gmail.com>
+
+    Fixing small conflicts
+
+commit 32a921dfefec738aa32ea8beabad43ea2c7e2e09
+Author: Evelina <evelina.menezes@gmail.com>
+Commit: Evelina <evelina.menezes@gmail.com>
+
+    Updating CHANGELOG.md
+
 commit bd495fa83db0581817ffff5213bc20fb8dc7c139
 Author: Evelina <evelina.menezes@gmail.com>
 Commit: Evelina <evelina.menezes@gmail.com>
 
     Fixing small errors
+
+commit a10a49375ff7738bdc4707723694399e906662aa
+Author: YD-B <92097813+YD-B@users.noreply.github.com>
+Commit: GitHub <noreply@github.com>
+
+    Update README.md
 
 commit 434d4d33822f7faaf972b96c1f70d6ff1d1ef933
 Author: Evelina <evelina.menezes@gmail.com>
