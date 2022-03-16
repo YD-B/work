@@ -1,8 +1,5 @@
 Files created during laboratory work 06:
-<<<<<<< HEAD
 
-=======
->>>>>>> a10a49375ff7738bdc4707723694399e906662aa
 MMReport06.md
 
 MMReport06.docx
