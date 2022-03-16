@@ -1,3 +1,15 @@
+commit bd495fa83db0581817ffff5213bc20fb8dc7c139
+Author: Evelina <evelina.menezes@gmail.com>
+Commit: Evelina <evelina.menezes@gmail.com>
+
+    Fixing small errors
+
+commit 434d4d33822f7faaf972b96c1f70d6ff1d1ef933
+Author: Evelina <evelina.menezes@gmail.com>
+Commit: Evelina <evelina.menezes@gmail.com>
+
+    Adding CHANGELOG.md
+
 commit af4afb2b85c64bd5fce88edec7a1a55d74764466
 Author: Evelina <evelina.menezes@gmail.com>
 Commit: Evelina <evelina.menezes@gmail.com>
