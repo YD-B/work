@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 commit 038c17c9639df961e6929a795235787a6ebdf3d8
 Author: Evelina <evelina.menezes@gmail.com>
 Commit: Evelina <evelina.menezes@gmail.com>
@@ -34,5 +34,4 @@ Author: Evelina <evelina.menezes@gmail.com>
 Commit: Evelina <evelina.menezes@gmail.com>
 
     Adding folder lab07
-=======
->>>>>>> 038c17c9639df961e6929a795235787a6ebdf3d8
+
