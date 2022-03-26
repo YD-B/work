@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 commit 36937e1d155e0eedae5a61136d153c700aca0330
 Author: Evelina <evelina.menezes@gmail.com>
 Commit: Evelina <evelina.menezes@gmail.com>
@@ -16,6 +17,8 @@ Author: Evelina <evelina.menezes@gmail.com>
 Commit: Evelina <evelina.menezes@gmail.com>
 
     Updating CHANGELOG.md
+=======
+>>>>>>> 884fa931b2cedf8c1608be87519ca67fefa70873
 
 commit 038c17c9639df961e6929a795235787a6ebdf3d8
 Author: Evelina <evelina.menezes@gmail.com>
@@ -52,3 +55,7 @@ Author: Evelina <evelina.menezes@gmail.com>
 Commit: Evelina <evelina.menezes@gmail.com>
 
     Adding folder lab07
+<<<<<<< HEAD
+=======
+
+>>>>>>> 884fa931b2cedf8c1608be87519ca67fefa70873
