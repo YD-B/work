@@ -1,4 +1,16 @@
-<<<<<<< HEAD
+commit 41029018b409cccdc86b7253f749e196eff09b56
+Merge: 011f4ff 038c17c
+Author: Evelina <evelina.menezes@gmail.com>
+Commit: Evelina <evelina.menezes@gmail.com>
+
+    Updating folder
+
+commit 011f4ff8dae48d0fa031870d347b4dfb28cab5b7
+Author: Evelina <evelina.menezes@gmail.com>
+Commit: Evelina <evelina.menezes@gmail.com>
+
+    Updating CHANGELOG.md
+
 commit 038c17c9639df961e6929a795235787a6ebdf3d8
 Author: Evelina <evelina.menezes@gmail.com>
 Commit: Evelina <evelina.menezes@gmail.com>
@@ -34,5 +46,3 @@ Author: Evelina <evelina.menezes@gmail.com>
 Commit: Evelina <evelina.menezes@gmail.com>
 
     Adding folder lab07
-=======
->>>>>>> 038c17c9639df961e6929a795235787a6ebdf3d8
