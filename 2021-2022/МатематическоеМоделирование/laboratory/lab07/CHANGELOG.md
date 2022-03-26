@@ -1,3 +1,9 @@
+commit 36937e1d155e0eedae5a61136d153c700aca0330
+Author: Evelina <evelina.menezes@gmail.com>
+Commit: Evelina <evelina.menezes@gmail.com>
+
+    Update CHANGELOG.md
+
 commit 41029018b409cccdc86b7253f749e196eff09b56
 Merge: 011f4ff 038c17c
 Author: Evelina <evelina.menezes@gmail.com>
