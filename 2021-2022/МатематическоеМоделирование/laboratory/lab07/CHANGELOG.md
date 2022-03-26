@@ -1,7 +1,25 @@
-<<<<<<< HEAD
+commit 4e0161b1c324478123bb127619ac3bdfb9c38414
+Merge: bdce4d5 884fa93
+Author: Evelina <evelina.menezes@gmail.com>
+Commit: Evelina <evelina.menezes@gmail.com>
+
+    Fixing conflict
+
+commit bdce4d50071e44f6d19da8fefbbca973eb4105f4
+Author: Evelina <evelina.menezes@gmail.com>
+Commit: Evelina <evelina.menezes@gmail.com>
+
+    Update CHANGELOG.md
+
 commit 36937e1d155e0eedae5a61136d153c700aca0330
 Author: Evelina <evelina.menezes@gmail.com>
 Commit: Evelina <evelina.menezes@gmail.com>
+
+    Update CHANGELOG.md
+
+commit 884fa931b2cedf8c1608be87519ca67fefa70873
+Author: YD-B <92097813+YD-B@users.noreply.github.com>
+Commit: GitHub <noreply@github.com>
 
     Update CHANGELOG.md
 
@@ -17,8 +35,6 @@ Author: Evelina <evelina.menezes@gmail.com>
 Commit: Evelina <evelina.menezes@gmail.com>
 
     Updating CHANGELOG.md
-=======
->>>>>>> 884fa931b2cedf8c1608be87519ca67fefa70873
 
 commit 038c17c9639df961e6929a795235787a6ebdf3d8
 Author: Evelina <evelina.menezes@gmail.com>
@@ -55,7 +71,3 @@ Author: Evelina <evelina.menezes@gmail.com>
 Commit: Evelina <evelina.menezes@gmail.com>
 
     Adding folder lab07
-<<<<<<< HEAD
-=======
-
->>>>>>> 884fa931b2cedf8c1608be87519ca67fefa70873
